@@ -15,13 +15,13 @@ abilities, characters will improve their innate
 superpowers as they become familiar with their powers.
 
 There will be no magic items that give permanent bonuses
-in loot or for sale. Instead, PCs will each recieve a number
-of "power points", which can be spent to purchase innate
+in loot or for sale. Instead, PCs each recieve a number
+of "stars", which can be spent to purchase innate
 encancement bonuses at the same rate as standard items.
-For instance, a +2 Strength bonus is 4,000 PP, exactly
+For instance, a +2 Strength bonus is 4,000 ✪, exactly
 as if you spent 4,000 gp on a Belt of Giant Strength.
 
-You don't have to spend PP on enchancement bonuses,
+You don't have to spend ✪ on enchancement bonuses,
 or even neccessarily magic items.
 You could buy a "hammerspace" power based on the Handy
 Haversack, a ranged attack based on a +1 Flaming Longbow,
