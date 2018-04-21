@@ -2,6 +2,23 @@
 
 WIP 3.PF tweaks for a superhero-themed game
 
+## Setting Notes
+
+Adventurers as we typically understand them do not yet exist,
+nor do superheroes (yet); the PCs will be the first of their kind.
+
+Kathrakopolis is a bustling, world-leading city, where the
+state of the art is practiced in every art -- but the state
+of the art in arcane magic is enourmous rune-covered monoliths that
+bring slow, subtle blessings to the city (and look like
+skyscrapers).
+
+While the familiar deities of Golarion don't exist here in any
+recognisable form, Kathrakopolis hosts a wide variety of mystery
+cults, so feel free to make up a deity if you want.
+
+(If time allows, I'll try to write up the Twelve Great Temples of Kathrakopolis with the rules-relevant details.)
+
 ## General character creation
 
 So we have enough levels to build proper supers, the game will start with 8th-level characters.
