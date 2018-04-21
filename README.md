@@ -4,7 +4,26 @@ WIP 3.PF tweaks for a superhero-themed game
 
 ## General character creation
 
+So we have enough levels to build proper supers, the game will start with 8th-level characters.
 
+Except for a few egregriously broken things (chained Summoner, etc.),
+there are no hard race or class restrictions.
+However, spellcasters are heavily nerfed -- check the house rules below
+before building one.
+
+Also, for fluff reasons I encourage choosing Human, or half-human races
+(Aasimars, Ifrits, Fetchlings, Strix, ...) over the standard
+elves, dwarves, and other Core races.
+I'm also considering allowing PCs built with templates,
+but I haven't decided how to handle that yet.
+
+I'm blanket allowing clerics of abstract ideals; they can take
+whatever domains, favoured weapons, etc. suit the concept.
+(Although I do reserve the right to reject alignmment-incompatible
+combinations, or things that turn out to be egregriously broken.)
+
+Deity-specific feats, traits, etc. are more of a problem;
+talk to me if you want to take one of those.
 
 ## House Rules
 
