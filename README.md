@@ -13,31 +13,33 @@ of the art in arcane magic is enourmous rune-covered monoliths that
 bring slow, subtle blessings to the city (and look like
 skyscrapers).
 
-While the familiar deities of Golarion don't exist here in any
-recognisable form, Kathrakopolis hosts a wide variety of mystery
-cults, so feel free to make up a deity if you want.
-
-(If time allows, I'll try to write up the Twelve Great Temples of Kathrakopolis with the rules-relevant details.)
+About 70% of the citizens are human, 15% half-humans (Aasimar, Ifrits, Fetchlings, etc.),
+10% Strix, and 5% giants (mostly ogres, cyclopes, and the homebrew "mirror giants").
 
 ## General character creation
 
 So we have enough levels to build proper supers, the game will start with 8th-level characters.
+
+For fluff reasons, players are encouraged to build Strix, Ogre,
+half-human or human characters (rather than elves, dwarves, etc).
 
 Except for a few egregriously broken things (chained Summoner, etc.),
 there are no hard race or class restrictions.
 However, spellcasters are heavily nerfed -- check the house rules below
 before building one.
 
-Also, for fluff reasons I encourage choosing Human, or half-human races
-(Aasimars, Ifrits, Fetchlings, Strix, ...) over the standard
-elves, dwarves, and other Core races.
-I'm also considering allowing PCs built with templates,
-but I haven't decided how to handle that yet.
+### Religion
+
+While the familiar deities of Golarion don't exist here in any
+recognisable form, Kathrakopolis hosts a wide variety of mystery
+cults, so feel free to make up a deity if you want.
+
+(If time allows, I'll try to write up the Twelve Great Temples of Kathrakopolis with the rules-relevant details.)
 
 I'm blanket allowing clerics of abstract ideals; they can take
 whatever domains, favoured weapons, etc. suit the concept.
 (Although I do reserve the right to reject alignmment-incompatible
-combinations, or things that turn out to be egregriously broken.)
+combinations, or things that turn out to be hugely broken.)
 
 Deity-specific feats, traits, etc. are more of a problem;
 talk to me if you want to take one of those.
@@ -45,7 +47,7 @@ talk to me if you want to take one of those.
 ## House Rules
 
 I'm using a couple of house rules to produce a superhero
-aesthetic with the mechanics of PF.
+aesthetic with the mechanics of PF:
 
 ### Limited Spell Selection
 
