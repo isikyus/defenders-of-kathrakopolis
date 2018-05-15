@@ -183,7 +183,7 @@ So an 8th-level cleric gets a total of 12 spells known:
   druid spell because they know it from the domain.
 
 * None of this affects your _spell list_, for the purpose of things like UMD checks and
-  using scrolls. Book casters can still copy out-of-school spells into their spellbooks
+  using scrolls. Furthermore, book casters can still copy out-of-school spells into their spellbooks
   for crafting, even though they can never cast them, and divine casters can still count
   any spells on their full spell list towards crafting pre-requisites.
   
