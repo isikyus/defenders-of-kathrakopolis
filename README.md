@@ -31,16 +31,50 @@ before building one.
 ### Religion
 
 While the familiar deities of Golarion don't exist here in any
-recognisable form, Kathrakopolis hosts a wide variety of mystery
+recognisable form, most residents of Kathrakopolis honour the gods
+of the Ring of Twelve:
+
+<table>
+<thead>
+<tr><th>Name</th><th>Title</th><th>Alignment</th><th>Areas of Concern</th><th>Domains</th><th>Favoured Weapon</th><th>Holy Symbol</th><th>Other Symbols</th><th>Colours</th></tr>
+</thead>
+<tbody>
+<tr><th>Telatek</th><td>The Inspired</td><td>N</td><td>Inventors, crazy schemes, giants, the disabled</td><td>Artifice, Trickery, Fire</td><td>Crossbow</td><td>Pulley</td><td>Flax, snails</td><td>Black and Green</td></tr>
+<tr><th>Aei & Oe</th><td>The Princess / The Prince</td><td>CG</td><td>Children, innocence, beauty</td><td>Liberation, Nobility, Animal</td><td>Fighting Fan</td><td>Flute</td><td>Lilies, baby animals</td><td>Pink</th></tr>
+<tr><th>Bracaden</th><td>The Cipher</td><td>N</td><td>Sorcery, secrets, mathematics</td><td>Knowledge, Magic</td><td>Sword Cane</td><td>Right-angled Triangle</td><td>Beans, cicadas, compass and straightedge</td><td>Red and Green</td></tr>
+<tr><th>Pheia</th><td>The Endurant</td><td>LN</td><td>Patience, labourers, commitment</td><td>Strength, Animal, Community</td><td>Quarterstaff</td><td>Sandal</td><td>Burr, tortoise, pebble</td><td>Brown</td></tr>
+<tr><th>Esdore</th><td>The Full Moon</td><td>LG</td><td>Defence, hunting, chance</td><td>Protection, Luck, Animal, Darkness</td><td>Longbow</td><td>Medusa's Head</td><td>Cypress, Deer</td><td>Silver</td></tr>
+<tr><th>Loden</th><td>The Dark Moon</td><td>N</td><td>Execution, endings, time</td><td>Void, Death, Erosion, Ruins</td><td>Greatsword</td><td>Hourglass</td><td>Yew, gibbet</td><td>Yellow, White</td></tr>
+<tr><th>Nesen</th><td>The Bedecked</td><td>CN</td><td>Strix, astronomy, wells</td><td>Knowledge, Freedom, Luck, Darkness</td><td>Sling</td><td>Dandelion</td><td>Bat, constellation</td><td>Purple</td></tr>
+<tr><th>Kalagon</th><td>The Lasting</td><td>LN</td><td>The state, laws, monoliths</td><td>Community, Law, Nobility, Rune</td><td>Handaxe</td><td>Rune-carved pillar</td><td>Castor oil, owls</td><td>Red</td></tr>
+<tr><th>Ienna</th><td>The Pearl</td><td>CN</td><td>Love, audiences, media</td><td>Charm, Water, Knowledge, Glory</td><td>Rapier</td><td>Scallop Shell</td><td>Roses, songbirds, mirrors</td><td>Copper</td></tr>
+<tr><th>Baket</th><td>The Kind</td><td>LG</td><td>Medicine, pacifism, alchemy</td><td>Healing, Law, Community</td><td>Unarmed Strike</td><td>Mortar and pestle</td><td>Chooks, wax, mould</td><td>White</td></tr>
+<tr><th>Helta</th><td>The Armed</td><td>N</td><td>Soldiers, atheletes, colonisation</td><td>Strength, Glory, War</td><td>Javelin</td><td>Laurel Wreath</td><td>Dogs, discus</td><td>Red and Gold</td></tr>
+</tbody>
+</table>
+
+Although not part of the Ring of Twelve, a few other gods are also widely worshipped:
+
+<table>
+<thead>
+<tr><th>Name</th><th>Title</th><th>Alignment</th><th>Areas of Concern</th><th>Domains</th><th>Favoured Weapon</th><th>Holy Symbol</th><th>Other Symbols</th><th>Colours</th></tr>
+</thead>
+<tbody>
+<tr><th>Gat</th><td>The Last</td><td>N</td><td>Endings, accepting fate, martyrdom</td><td>Repose, Darkness, Madness</td><td>Sap</td><td>Hemlock</td><td>Black flame, salmon</td><td>Black</td></tr>
+<tr><th>Asham</th><td>The Unseen</td><td>N</td><td>Prophecy, funerals, turning points</td><td>Repose, Knowledge, Death</td><td>Butterfly Swords</td><td>Blindfold</td><td>Musrooms, spiders</td><td>Turquoise</td></tr>
+<tr><th>Nam-Tarrag</th><td>The Impending</td><td>CN</td><td>Monsters, disasters, limits</td><td>Animal, Weather, Fire, Destruction</td><td>Warhammer</td><td>Domino</td><td>Banksia, lightning bolt</td><td>Orange, black</td></tr>
+<tr><th>Ulalla</th><td>The Chorus</td><td>CN</td><td>Wild places, wild parties, wine</td><td>Charm, Animals, Strenght, Liberation</td><td>Falchion</td><td>Amphora</td><td>Wolf, pine</td><td>Blue and Maroon</td></tr>
+<tr><th>Oecon</th><td>The Centre</td><td>LN</td><td>Harvest, cooking, home</td><td>Plant, Community, Earth, Healing</td><td>Flail</td><td>Cornucopia</td><td>Ants, fireplaces</td><td>Brown and Yellow</td></tr>
+</tbody>
+</table>
+
+Kathrakopolis also hosts a wide variety of mystery
 cults, so feel free to make up a deity if you want.
 
-(If time allows, I'll try to write up the Twelve Great Temples of Kathrakopolis with the rules-relevant details.)
-
-I'm blanket allowing clerics of abstract ideals; they can take
+Furthermore, I'm blanket allowing clerics of abstract ideals; they can take
 whatever domains, favoured weapons, etc. suit the concept.
 (Although I do reserve the right to reject alignmment-incompatible
 combinations, or things that turn out to be hugely broken.)
-
 Deity-specific feats, traits, etc. are more of a problem;
 talk to me if you want to take one of those.
 
