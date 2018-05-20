@@ -39,7 +39,7 @@ of the Ring of Twelve:
 <tr><th>Name</th><th>Title</th><th>Alignment</th><th>Areas of Concern</th><th>Domains</th><th>Favoured Weapon</th><th>Holy Symbol</th><th>Other Symbols</th><th>Colours</th></tr>
 </thead>
 <tbody>
-<tr><th>Telatek</th><td>The Inspired</td><td>N</td><td>Inventors, crazy schemes, giants, the disabled</td><td>Artifice, Trickery, Fire</td><td>Crossbow</td><td>Pulley</td><td>Flax, snails</td><td>Black and Green</td></tr>
+<tr><th>Telatek</th><td>The Inspired</td><td>N</td><td>Inventors, crazy schemes, giants, the disabled</td><td>Artifice, Trickery, Fire</td><td>Repeating Crossbow</td><td>Pulley</td><td>Flax, snails</td><td>Black and Green</td></tr>
 <tr><th>Aei & Oe</th><td>The Princess / The Prince</td><td>CG</td><td>Children, innocence, beauty</td><td>Liberation, Nobility, Animal</td><td>Fighting Fan</td><td>Flute</td><td>Lilies, baby animals</td><td>Pink</th></tr>
 <tr><th>Bracaden</th><td>The Cipher</td><td>N</td><td>Sorcery, secrets, mathematics</td><td>Knowledge, Magic</td><td>Sword Cane</td><td>Right-angled Triangle</td><td>Beans, cicadas, compass and straightedge</td><td>Red and Green</td></tr>
 <tr><th>Pheia</th><td>The Endurant</td><td>LN</td><td>Patience, labourers, commitment</td><td>Strength, Animal, Community</td><td>Quarterstaff</td><td>Sandal</td><td>Burr, tortoise, pebble</td><td>Brown</td></tr>
