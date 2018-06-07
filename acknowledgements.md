@@ -10,6 +10,10 @@ even if they don't show up in this player's guide.
 These aren't academic references, nor recommendations.
 I'm not writing a bibliography to claim that these people are right, or that they prove I know what I'm talking about; I just want to acknowledge the real work done by other people that allowed me to make this thing for my game.
 
+## Acknowledgements
+
+I'm indebted to the other players I've had the opportunity to discuss my ideas on this with: ohokwy, the Trollslayers, and the Space Cadets.
+
 ## Game Rules
 
 * Buhlman, J et. al. 2016, _Ultimate Intrigue_, Paizo Publishing LLC, Redmond WA.
