@@ -31,8 +31,7 @@ before building one.
 ### Religion
 
 While the familiar deities of Golarion don't exist here in any
-recognisable form, most residents of Kathrakopolis honour the gods
-of the Ring of Twelve:
+recognisable form, most residents of Kathrakopolis honour beings of the Ring of Twelve:
 
 <table><thead>
 <tr><th>Name</th><th>Title</th><th>Areas of Concern</th><th>Domains</th><th>Favoured Weapon</th><th>Holy Symbol</th><th>Other Symbols</th><th>Colours</th></tr>
@@ -52,7 +51,7 @@ of the Ring of Twelve:
 </tbody>
 </table>
 
-Although not part of the Ring of Twelve, a few other gods are also widely worshipped:
+Although not part of the Ring of Twelve, a few other deities are also widely worshipped:
 
 <table>
 <thead>
@@ -76,6 +75,16 @@ whatever domains, favoured weapons, etc. suit the concept.
 combinations, or things that turn out to be hugely broken.)
 Deity-specific feats, traits, etc. are more of a problem;
 talk to me if you want to take one of those.
+
+### Alignment
+
+The divide between heroes and villains is a big part of superhero stories,
+and the alignment system is a good way to represent that -- so yes, this game will use alignments.
+_Which_ alignments will depend on what sort of game players want to see, so I'm not setting down restrictions here.
+
+However, the deities above don't have alignment restrictions, as they honour the good and bad parts of their portfolios equally.
+Any PC can follow any of them.
+If it matters mechanically (e.g. for Channel Energy), choose any alignment within one step of your own.
 
 ## House Rules
 
