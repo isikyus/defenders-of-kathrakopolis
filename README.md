@@ -39,15 +39,15 @@ recognisable form, most residents of Kathrakopolis honour beings of the Ring of 
 <tbody>
 <tr><th>Telatek</th><td>The Inspired</td><td>Inventors, crazy schemes, giants, the disabled</td><td>Artifice, Trickery, Fire</td><td>Repeating Crossbow</td><td>Pulley</td><td>Flax, snails</td><td>Black and Green</td></tr>
 <tr><th>Aei & Oe</th><td>The Princess / The Prince</td><td>Children, innocence, beauty</td><td>Liberation, Nobility, Animal</td><td>Fighting Fan</td><td>Flute</td><td>Lilies, baby animals</td><td>Pink</td></tr>
-<tr><th>Bracaden</th><td>The Cipher</td><td>Sorcery, secrets, mathematics</td><td>Knowledge, Magic</td><td>Sword Cane</td><td>Right-angled Triangle</td><td>Beans, cicadas, compass and straightedge</td><td>Red and Green</td></tr>
+<tr><th>Bracaden</th><td>The Cipher</td><td>Sorcery, secrets, mathematics</td><td>Knowledge, Magic, Earth</td><td>Sword Cane</td><td>Right-angled Triangle</td><td>Beans, cicadas, compass and straightedge</td><td>Red and Green</td></tr>
 <tr><th>Pheia</th><td>The Endurant</td><td>Patience, labourers, commitment</td><td>Strength, Animal, Community</td><td>Quarterstaff</td><td>Sandal</td><td>Burr, tortoise, pebble</td><td>Brown</td></tr>
 <tr><th>Esdore</th><td>The Full Moon</td><td>Defence, hunting, chance</td><td>Protection, Luck, Animal, Darkness</td><td>Longbow</td><td>Medusa's Head</td><td>Cypress, Deer</td><td>Silver</td></tr>
 <tr><th>Loden</th><td>The Dark Moon</td><td>Execution, endings, time</td><td>Void, Death, Erosion, Ruins</td><td>Greatsword</td><td>Hourglass</td><td>Yew, gibbet</td><td>Yellow, White</td></tr>
-<tr><th>Nesen</th><td>The Bedecked</td><td>Strix, astronomy, wells</td><td>Knowledge, Freedom, Luck, Darkness</td><td>Sling</td><td>Dandelion</td><td>Bat, constellation</td><td>Purple</td></tr>
+<tr><th>Nesen</th><td>The Bedecked</td><td>Strix, astronomy, wells</td><td>Air, Knowledge, Luck, Darkness</td><td>Sling</td><td>Dandelion</td><td>Bat, constellation</td><td>Purple</td></tr>
 <tr><th>Kalagon</th><td>The Lasting</td><td>The state, laws, monoliths</td><td>Community, Law, Nobility, Rune</td><td>Handaxe</td><td>Rune-carved pillar</td><td>Castor oil, owls</td><td>Red</td></tr>
 <tr><th>Ienna</th><td>The Pearl</td><td>Love, audiences, media</td><td>Charm, Water, Knowledge, Glory</td><td>Rapier</td><td>Scallop Shell</td><td>Roses, songbirds, mirrors</td><td>Copper</td></tr>
 <tr><th>Baket</th><td>The Kind</td><td>Medicine, pacifism, alchemy</td><td>Healing, Law, Community</td><td>Unarmed Strike</td><td>Mortar and pestle</td><td>Chooks, wax, mould</td><td>White</td></tr>
-<tr><th>Helta</th><td>The Armed</td><td>Soldiers, atheletes, colonisation</td><td>Strength, Glory, War</td><td>Javelin</td><td>Laurel Wreath</td><td>Dogs, discus</td><td>Red and Gold</td></tr>
+<tr><th>Helta</th><td>The Armed</td><td>Soldiers, atheletes, colonisation</td><td>Strength, Glory, War</td><td>Javelin</td><td>Laurel Wreath</td><td>Dogs, discuses</td><td>Red and Gold</td></tr>
 </tbody>
 </table>
 
@@ -61,7 +61,7 @@ Although not part of the Ring of Twelve, a few other deities are also widely wor
 <tr><th>Gat</th><td>The Last</td><td>Endings, accepting fate, martyrdom</td><td>Repose, Darkness, Madness</td><td>Sap</td><td>Hemlock</td><td>Black flame, salmon</td><td>Black</td></tr>
 <tr><th>Asham</th><td>The Unseen</td><td>Prophecy, funerals, turning points</td><td>Repose, Knowledge, Death</td><td>Butterfly Swords</td><td>Blindfold</td><td>Musrooms, spiders</td><td>Turquoise</td></tr>
 <tr><th>Nam-Tarrag</th><td>The Impending</td><td>Monsters, disasters, limits</td><td>Animal, Weather, Fire, Destruction</td><td>Warhammer</td><td>Domino</td><td>Banksia, lightning bolt</td><td>Orange, black</td></tr>
-<tr><th>Ulalla</th><td>The Chorus</td><td>Wild places, wild parties, wine</td><td>Charm, Animals, Strenght, Liberation</td><td>Falchion</td><td>Amphora</td><td>Wolf, pine</td><td>Blue and Maroon</td></tr>
+<tr><th>Ulalla</th><td>The Chorus</td><td>Wilderness, wild parties, wine</td><td>Charm, Animals, Strength, Liberation</td><td>Falchion</td><td>Amphora</td><td>Wolf, pine</td><td>Blue and Maroon</td></tr>
 <tr><th>Oecon</th><td>The Centre</td><td>Harvest, cooking, home</td><td>Plant, Community, Earth, Healing</td><td>Flail</td><td>Cornucopia</td><td>Ants, fireplaces</td><td>Brown and Yellow</td></tr>
 </tbody>
 </table>
