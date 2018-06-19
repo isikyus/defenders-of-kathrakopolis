@@ -13,8 +13,9 @@ of the art in arcane magic is enourmous rune-covered monoliths that
 bring slow, subtle blessings to the city (and look like
 skyscrapers).
 
-About 70% of the citizens are human, 15% half-humans (Aasimar, Ifrits, Fetchlings, etc.),
-10% Strix, and 5% giants (mostly ogres, cyclopes, and the homebrew "mirror giants").
+About 65% of the citizens are human, 15% Strix,
+10% giants (mostly ogres, cyclopes, and the homebrew "mirror giants"),
+and 10% half-humans (Aasimar, Ifrits, Fetchlings, etc.).
 
 ## General character creation
 
