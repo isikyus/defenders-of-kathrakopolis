@@ -292,6 +292,11 @@ and is clearly visible -- as gleaming metal skin, or
 maybe a shimmering forcefield -- unless you have a way to
 hide it (perhaps by spending ✪ on the _glamered_ quality).
 
+### Other House Rules
+
+Oozemorph Shifters in ooze form may use powers bought with ✪ (i.e. magic items)
+as though they had a full set of humanoid magic item slots.
+
 ## License and Disclaimer
 
 This document is based on Open Game License (OGL)-licensed
