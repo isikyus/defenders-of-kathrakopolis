@@ -29,6 +29,38 @@ there are no hard race or class restrictions.
 However, spellcasters are heavily nerfed -- check the house rules below
 before building one.
 
+### Languages
+
+The following languages are commonly spoken in Kathrakopolis:
+
+* Common
+* Giant
+* Runic (the language of magic, and of the rune-carved pillars; replaces Draconic)
+* Strix
+* Gilman (language of many visitors to the city from the Great Ocean)
+
+Smaller groups within the city speak these languages:
+
+* Aquan
+* Auran
+* Cyclops
+* Druidic
+* Ignan
+* Quixotic (international language of tricksters, fools, heroes, and Spaniards)
+* Sphinx
+* Terran
+* Tengu
+
+Finally, these languages are of interest mainly to traders or researchers:
+
+* Abyssal
+* Aklo
+* Axiomite
+* Celestial
+* Elven
+* Infernal
+* Protean
+
 ### Religion
 
 While the familiar deities of Golarion don't exist here in any
