@@ -111,6 +111,18 @@ combinations, or things that turn out to be hugely broken.)
 Deity-specific feats, traits, etc. are more of a problem;
 talk to me if you want to take one of those.
 
+### Traits
+
+PCs get two traits each.
+
+All the normal PF traits are available,
+except those with setting-specific restrictions
+(like worshipping a particular deity, or being a member of a particular organisation).
+
+I'm also willing to add campaign traits;
+if you want an unusual trait effect, or want to take a trait with setting restrictions,
+let me know and I'll see what I can work out.
+
 ## House Rules
 
 I'm using a couple of house rules to produce a superhero
