@@ -132,6 +132,10 @@ These are the campaign traits I've added so far:
   You have fought often in such bouts, and proven your prowess in the ring from a young age.
   You gain a +1 Trait bonus to grapple and resist grappling.
   (This is a copy of the [Serpentine Squeeze](http://www.d20pfsrd.com/traits/religion-traits/serpentine-squeeze) religion trait from _Pathfinder Campaign Setting: Inner Sea Gods_.)
+* Nameless Dreams (Regional Trait, Kathrakopolis): since you gained your powers, you are plagued by
+  dreams of slime, salt, and creatures like nothing you are familiar with.
+  Compared to these, the strange creature of the waking world seem quite understandable.
+  You gain a +1 trait bonus on Knowledge (Dungeoneering) and (Planes) checks, and one of these is a class skill for you.
 
 ## House Rules
 
