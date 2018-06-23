@@ -21,6 +21,9 @@ and 10% half-humans (Aasimar, Ifrits, Fetchlings, etc.).
 
 So we have enough levels to build proper supers, the game will start with 8th-level characters.
 
+Stats are either 20-point buy, or 4d6 drop lowest (with reordering allowed).
+Remember you get a +1 stat increase to those at 4th and 8th level.
+
 For fluff reasons, players are encouraged to build Strix, Ogre,
 half-human or human characters (rather than elves, dwarves, etc).
 
