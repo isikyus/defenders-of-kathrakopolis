@@ -14,7 +14,7 @@ bring slow, subtle blessings to the city (and look like
 skyscrapers).
 
 About 65% of the citizens are human, 15% Strix,
-10% giants (mostly ogres, cyclopes, and the homebrew "mirror giants"),
+10% giants (mostly ogres, cyclopes, and the homebrew [Mirror Giants](./mirror_giants.md)),
 and 10% half-humans (Aasimar, Ifrits, Fetchlings, etc.).
 
 ## General character creation
