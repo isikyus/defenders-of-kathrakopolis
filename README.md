@@ -21,6 +21,9 @@ and 10% half-humans (Aasimar, Ifrits, Fetchlings, etc.).
 
 So we have enough levels to build proper supers, the game will start with 8th-level characters.
 
+Stats are either 20-point buy, or 4d6 drop lowest (with reordering allowed).
+Remember you get a +1 stat increase to those at 4th and 8th level.
+
 For fluff reasons, players are encouraged to build Strix, Ogre,
 half-human or human characters (rather than elves, dwarves, etc).
 
@@ -110,6 +113,18 @@ whatever domains, favoured weapons, etc. suit the concept.
 combinations, or things that turn out to be hugely broken.)
 Deity-specific feats, traits, etc. are more of a problem;
 talk to me if you want to take one of those.
+
+### Traits
+
+PCs get two traits each.
+
+All the normal PF traits are available,
+except those with setting-specific restrictions
+(like worshipping a particular deity, or being a member of a particular organisation).
+
+I'm also willing to add campaign traits;
+if you want an unusual trait effect, or want to take a trait with setting restrictions,
+let me know and I'll see what I can work out.
 
 ## House Rules
 
