@@ -1,20 +1,20 @@
 # Mirror Giant
 
 The Mirror Giants of Kathrakopolis are considered the most "civilised" of giants.
-While hedonistic Ogres and proud Cyclopes are found throughought the northern mountains,
+While hedonistic Ogres and proud Cyclopes are found throughout the northern mountains,
 the Mirror Giants congregate in Kathrakopolis itself, and in nearby industrial towns such as
 Monument and Furnace.
 
 The Mirror Giants consider themselves the favoured children of Telatek, god of invention,
 and many dedicate their lives to intricate crafts, or seek insight into the complexities of the world,
-becoming laywers, engineers, or arcanists (working with rune-pillars).
+becoming lawyers, engineers, or arcanists (working with rune-pillars).
 
 While most are content with peaceful lives, a few Mirror Giants are prepared to fight;
 here, they turn their natural insight into an uncanny ability to strike accurately when it matters.
 
 ## Physical Description
 
-A Mirror Giant's most noticable feature is their silver skin, which they usually keep polished
+A Mirror Giant's most noticeable feature is their silver skin, which they usually keep polished
 to a mirror sheen. Many shave their hair completely off; others wear it in short red or white
 cuts, or neatly braided out of the way.
 
@@ -39,7 +39,7 @@ They have a range increment of 120 feet, and a maximum range of five range incre
 The DC is 15 for a Small rock, and increases by 5 for each size increment of the rock.
 You can't catch a rock you didn't know about. (Reproduced from the [Universal Monster Rules](http://paizo.com/pathfinderRPG/prd/bestiary/universalMonsterRules.html#rock-catching))
 
-**Skilled**: Mirror Giants recieve a +2 bonus on a single Craft or Profession skill of their choice.
+**Skilled**: Mirror Giants receive a +2 bonus on a single Craft or Profession skill of their choice.
 
 **Increased Reach**: Mirror Giants have a natural reach of 10 feet.
 
