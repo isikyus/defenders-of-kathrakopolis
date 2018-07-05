@@ -192,15 +192,15 @@ not guaranteed.
 Not all heroes have a power for every situation --
 but there are a few who are defined by good preparation.
 
-If you're playing a full caster who gets bonus spells per day,
-you have a wider spell selection. Casters with bonus spells get
-a bonus spell known/spellbook entry at every odd
-level (so they get a spell per level instead of 1 / two levels).
+If you're playing a class that gets bonus slots restricted
+to specific types of spells (e.g. cleric domain spells,
+or wizard spell slots from their arcane school), you get extra
+spells known to use with them: one extra spell known per bonus slot,
+up to a limit of half your level.
 
-Again, **spontaneous casters** are straightforward: their bonus spells
-are the listed ones for their bloodline (or mystery, discipline, etc.).
+For example, a level 4 cleric would know 2 domain spells, plus 2 spells from the normal Cleric list.
 
-Likewise, **druids with domains** get their listed domain spells
+The simplest case is **druids with domains**, who get their listed domain spells
 as bonus spells known. (Druids who take animal companions instead
 are assumed to be focussing their efforts their efforts there,
 and only get the base one spell per two levels).
@@ -209,9 +209,9 @@ and only get the base one spell per two levels).
 An 8th-level cleric would only have access to four of their
 normal 8 domain spells.
 
-Alternatively, a cleric can miss out on a domain
-spell and take an extra spell from the normal cleric list instead
-(possibly meaning they can't use the domain slot).
+As a special cleric-only option, a cleric can instead take an extra spell from the normal cleric list
+(so they get a Cleric spell every level).
+However, doing this may mean you can't use their domain slot (except for metamagic).
 
 **Wizards**, being uniquely versatile, can pick any spell from their
 chosen school as a bonus spell.
@@ -223,15 +223,16 @@ two special exceptions:
 * Universalists get a new spellbook spell at every level,
   from either of their chosen schools, despite lacking bonus spell slots.
 
-**All these rules** modify bonus spells, not the property of being a full caster.
-If a partial caster has bonus spells, they can take one as a spell known
-each odd level, until all the bonus spells are on their list.
+**All these rules** modify bonus spell slots, not the property of being a full caster.
+If a partial caster has bonus slots, they can take one as a spell known
+each odd level, until they have a spell for every slot.
 
 #### Special Bonus Spells
 
-Many full casters get free spells known that are inherent to the
+Many full casters get specific spells known as a class feature that are inherent to the
 nature of the class. The ones I'm aware of are:
 
+* Sorcerer bloodline spells (and similar things like Oracle mysteries).
 * Read Magic for wizards,
 * Spontaneous cure/inflict spells for clerics,
 * Summon Nature's Ally for druids, and
