@@ -136,6 +136,9 @@ These are the campaign traits I've added so far:
   dreams of slime, salt, and creatures like nothing you are familiar with.
   Compared to these, the strange creature of the waking world seem quite understandable.
   You gain a +1 trait bonus on Knowledge (Dungeoneering) and (Planes) checks, and one of these is a class skill for you.
+* Born Politician (Racial Trait, Strix): most Strix focus their minds on logic
+  and physics, but you have always dreamed of great speeches and the respect of crowds.
+  You gain a +1 trait bonus on Diplomacy and Knowledge (Nobility) checks, and one of these is a class skill for you.
 
 ## House Rules
 
