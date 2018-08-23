@@ -27,7 +27,7 @@ Remember you get a +1 stat increase to those at 4th and 8th level.
 For fluff reasons, players are encouraged to build Strix, Ogre,
 half-human or human characters (rather than elves, dwarves, etc).
 
-Except for a few egregriously broken things (chained Summoner, etc.),
+Except for a few egregiously broken things (chained Summoner, etc.),
 there are no hard race or class restrictions.
 However, spellcasters are heavily nerfed -- check the house rules below
 before building one.
@@ -85,7 +85,7 @@ of the Ring of Twelve:
 <tr><th>Kalagon</th><td>The Lasting</td><td>LN</td><td>The state, laws, monoliths</td><td>Community, Law, Nobility, Rune</td><td>Handaxe</td><td>Rune-carved pillar</td><td>Castor oil, owls</td><td>Red</td></tr>
 <tr><th>Ienna</th><td>The Pearl</td><td>CN</td><td>Love, audiences, media</td><td>Charm, Water, Knowledge, Glory</td><td>Rapier</td><td>Scallop Shell</td><td>Roses, songbirds, mirrors</td><td>Copper</td></tr>
 <tr><th>Baket</th><td>The Kind</td><td>LG</td><td>Medicine, pacifism, alchemy</td><td>Healing, Law, Community</td><td>Unarmed Strike</td><td>Mortar and pestle</td><td>Chooks, wax, mould</td><td>White</td></tr>
-<tr><th>Helta</th><td>The Armed</td><td>N</td><td>Soldiers, atheletes, colonisation</td><td>Strength, Glory, War</td><td>Javelin</td><td>Laurel Wreath</td><td>Dogs, discus</td><td>Red and Gold</td></tr>
+<tr><th>Helta</th><td>The Armed</td><td>N</td><td>Soldiers, athletes, colonisation</td><td>Strength, Glory, War</td><td>Javelin</td><td>Laurel Wreath</td><td>Dogs, discus</td><td>Red and Gold</td></tr>
 </tbody>
 </table>
 
@@ -97,9 +97,9 @@ Although not part of the Ring of Twelve, a few other gods are also widely worshi
 </thead>
 <tbody>
 <tr><th>Gat</th><td>The Last</td><td>N</td><td>Endings, accepting fate, martyrdom</td><td>Repose, Darkness, Madness</td><td>Sap</td><td>Hemlock</td><td>Black flame, salmon</td><td>Black</td></tr>
-<tr><th>Asham</th><td>The Unseen</td><td>N</td><td>Prophecy, funerals, turning points</td><td>Repose, Knowledge, Death</td><td>Butterfly Swords</td><td>Blindfold</td><td>Musrooms, spiders</td><td>Turquoise</td></tr>
+<tr><th>Asham</th><td>The Unseen</td><td>N</td><td>Prophecy, funerals, turning points</td><td>Repose, Knowledge, Death</td><td>Butterfly Swords</td><td>Blindfold</td><td>Mushrooms, spiders</td><td>Turquoise</td></tr>
 <tr><th>Nam-Tarrag</th><td>The Impending</td><td>CN</td><td>Monsters, disasters, limits</td><td>Animal, Weather, Fire, Destruction</td><td>Warhammer</td><td>Domino</td><td>Banksia, lightning bolt</td><td>Orange, black</td></tr>
-<tr><th>Ulalla</th><td>The Chorus</td><td>CN</td><td>Wild places, wild parties, wine</td><td>Charm, Animals, Strenght, Liberation</td><td>Falchion</td><td>Amphora</td><td>Wolf, pine</td><td>Blue and Maroon</td></tr>
+<tr><th>Ulalla</th><td>The Chorus</td><td>CN</td><td>Wild places, wild parties, wine</td><td>Charm, Animals, Strength, Liberation</td><td>Falchion</td><td>Amphora</td><td>Wolf, pine</td><td>Blue and Maroon</td></tr>
 <tr><th>Oecon</th><td>The Centre</td><td>LN</td><td>Harvest, cooking, home</td><td>Plant, Community, Earth, Healing</td><td>Flail</td><td>Cornucopia</td><td>Ants, fireplaces</td><td>Brown and Yellow</td></tr>
 </tbody>
 </table>
@@ -109,7 +109,7 @@ cults, so feel free to make up a deity if you want.
 
 Furthermore, I'm blanket allowing clerics of abstract ideals; they can take
 whatever domains, favoured weapons, etc. suit the concept.
-(Although I do reserve the right to reject alignmment-incompatible
+(Although I do reserve the right to reject alignment-incompatible
 combinations, or things that turn out to be hugely broken.)
 Deity-specific feats, traits, etc. are more of a problem;
 talk to me if you want to take one of those.
@@ -257,7 +257,7 @@ So an 8th-level cleric gets a total of 12 spells known:
 * On the other hand, a new spell known doesn't _have_ to be the highest-level
   one you can cast. That 8th-level bard could know four first-level spells
   if they wanted; they'll just have trouble using their 2nd- and 3rd-level slots.
-  (Metamagic feats, and just preparing spells in over-leveled slots, can help here.)
+  (Metamagic feats, and just preparing spells in over-levelled slots, can help here.)
 
 * You only need to learn a given spell once per class. A cleric with the Healing
   domain doesn't need to take Cure Light Wounds as a domain spell known, because they
@@ -270,7 +270,7 @@ So an 8th-level cleric gets a total of 12 spells known:
   for crafting, even though they can never cast them, and divine casters can still count
   any spells on their full spell list towards crafting pre-requisites.
   
-* Items like the Ring and Page of Spell Knowlege can be used to exceed these limits.
+* Items like the Ring and Page of Spell Knowledge can be used to exceed these limits.
   These can also be bought as powers with Stars (see next section).
 
 ### Magic Items as Powers 
@@ -280,9 +280,9 @@ abilities, characters will improve their innate
 superpowers as they become familiar with them.
 
 There will be no magic items that give permanent bonuses
-in loot or for sale. Instead, PCs each recieve a number
+in loot or for sale. Instead, PCs each receive a number
 of "stars", which can be spent to purchase innate
-encancement bonuses at the same rate as standard items.
+enhancement bonuses at the same rate as standard items.
 For instance, a +2 Strength bonus is 4,000 ✪, exactly
 as if you spent 4,000 gp on a Belt of Giant Strength.
 
@@ -290,8 +290,8 @@ Most encounters will give ✪ rather than GP loot.
 These can be converted into GP if necessary (wealth is a power!),
 but not necessarily the other way.
 
-You don't have to spend ✪ on enchancement bonuses,
-or even neccessarily magic items.
+You don't have to spend ✪ on enhancement bonuses,
+or even necessarily magic items.
 You could buy a "hammerspace" power based on the Handy
 Haversack, a ranged attack based on a +1 Flaming Longbow,
 or the DR and AC of adamantine full plate. With GM
@@ -299,7 +299,7 @@ permission, you could build a custom power as a custom
 magic item.
 
 However, a power also comes with most of the disadvantages of
-the base item. That firey attack requires two hands,
+the base item. That fiery attack requires two hands,
 and must be visibly active (say, as a halo of flames)
 before you can use it.
 
