@@ -30,6 +30,7 @@ I'm indebted to the other players I've had the opportunity to discuss my ideas o
 * Bolen, JS 1989, _Gods in Everyman_, Harper Perennial, New York.
 * Bolen, JS 1984, _Gods in Everwoman_, 20th Anniversary Edition, Harper Perennial, New York.
 * Lacelyn Green, R _The Greek Myths_(?). (I can't remember the date or exact title of this book, and I don't have it handy to check, but it's where most of my knowledge of Greek mythology originally came from.)
+* MTG Wiki 2018, <https://mtg.gamepedia.com/Main_Page>. Accessed 2018.
 * Ovid, 'Book the First: The Creation of the World', _Metamorphoses_, trans. J Dryden 1717, placed online by the University of Virginia Library <http://ovid.lib.virginia.edu/garth.html>. Accessed January 2018.
 * PathfinderWiki 2018, <https://pathfinderwiki.com/wiki/Pathfinder_Wiki>. Accessed May 2018.
 * Wachowski, L & Wachowski, L (Directors) & Silver, J (Producer) 1999, _The Matrix_ \[Motion Picture\], Warner Bros. & Village Roadshow Pictures, United States / Australia.
