@@ -25,18 +25,22 @@ I'm indebted to the other players I've had the opportunity to discuss my ideas o
 ## Story inspiration
 
 * D'Epiro, P & Pinkowish, MD 2005, _What are the Seven Wonders of the World? And 60 other great cultural questions_, The Folio Society, London.
+* Blake, W (lyrics) and Parry, H (composer) 1904, /Jerusalem/. YouTube video: "cantorandopera" 2011 (May 4), \/Jerusalem, the Anthem, with simultaneous lyrics\/ <https://www.youtube.com/watch?v=MKRHWT6xdEU&list=PL0YwNeN7lPyl6hjz5KKT6iFAhTK8JOht_&index=4&t=0s>.
 * Carrol, Lewis 1871, _Through the Looking-Glass and What Alice Found There_.
 * Cervantes Saavedra, M de 1605-1615, _Don Quixote_, trans. E Grossman 2003, Vintage, London.
-* Bolen, JS 1989, _Gods in Everyman_, Harper Perennial, New York.
+* Dvořák, A 1893, _Symphony No. 9 in E minor, Op. 95: 'From the New World'_. CD recording: Kertész, I & Vienna Philharmonic Orchestra 2009, _The Classic 100 Symphony_, Australian Broadcasting Corporation, Australia.
 * Bolen, JS 1984, _Gods in Everwoman_, 20th Anniversary Edition, Harper Perennial, New York.
+* Bolen, JS 1989, _Gods in Everyman_, Harper Perennial, New York.
 * Lacelyn Green, R _The Greek Myths_(?). (I can't remember the date or exact title of this book, and I don't have it handy to check, but it's where most of my knowledge of Greek mythology originally came from.)
 * MTG Wiki 2018, <https://mtg.gamepedia.com/Main_Page>. Accessed 2018.
 * Ovid, 'Book the First: The Creation of the World', _Metamorphoses_, trans. J Dryden 1717, placed online by the University of Virginia Library <http://ovid.lib.virginia.edu/garth.html>. Accessed January 2018.
 * PathfinderWiki 2018, <https://pathfinderwiki.com/wiki/Pathfinder_Wiki>. Accessed May 2018.
+* Voltaire, A \[The Lair of Voltaire\], 2012, June 12, 'When You're Evil' \[YouTube video\], song from _The Devil's Bride_, <https://www.youtube.com/watch?v=tWYCS6k1IOA>. Accessed 2018.
 * Wachowski, L & Wachowski, L (Directors) & Silver, J (Producer) 1999, _The Matrix_ \[Motion Picture\], Warner Bros. & Village Roadshow Pictures, United States / Australia.
 * Whedon, J (Director), Burns, D & Boretz, M (Directors) 2008, _Dr. Horrible'sn Sing-Along Blog_ \[Motion Picture\], Mutant Enemy Productions, Los Angeles.
 * "wildbow" 2011-2017, _Worm_, <https://parahumans.wordpress.com/table-of-contents/>. Accessed 2018.
 
 ## Meta
 
-"A Guide to Citing sources in Classics" 2018, Haverford College, <https://www.haverford.edu/classics/resources/guide-citing-sources-classics>. Accessed June 7th 2018.
+* "A Guide to Citing sources in Classics" 2018, Haverford College, <https://www.haverford.edu/classics/resources/guide-citing-sources-classics>. Accessed June 7th 2018.
+* _APA Style_, \[weblog\] <https://blog.apastyle.org/apastyle/2011/12/how-to-cite-recorded-music-in-apa-style.html>, accessed 2018. American Psychological Association, Washington DC.
