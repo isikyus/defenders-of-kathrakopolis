@@ -31,6 +31,7 @@ I'm indebted to the other players I've had the opportunity to discuss my ideas o
 * Cervantes Saavedra, M de 1605-1615, _Don Quixote_, trans. E Grossman 2003, Vintage, London.
 * D'Epiro, P & Pinkowish, MD 2005, _What are the Seven Wonders of the World? And 60 other great cultural questions_, The Folio Society, London.
 * Dvořák, A 1893, _Symphony No. 9 in E minor, Op. 95: 'From the New World'_. CD recording: Kertész, I & Vienna Philharmonic Orchestra 2009, _The Classic 100 Symphony_, Australian Broadcasting Corporation, Australia.
+* Evans, J (Director) 2018. _Julius Caesar_ by William Shakespeare, Canberra Theatre Centre, Canberra, Australia.
 * Lacelyn Green, R _The Greek Myths_(?). (I can't remember the date or exact title of this book, and I don't have it handy to check, but it's where most of my knowledge of Greek mythology originally came from.)
 * MTG Wiki 2018, <https://mtg.gamepedia.com/Main_Page>. Accessed 2018.
 * Ovid, 'Book the First: The Creation of the World', _Metamorphoses_, trans. J Dryden 1717, placed online by the University of Virginia Library <http://ovid.lib.virginia.edu/garth.html>. Accessed January 2018.
