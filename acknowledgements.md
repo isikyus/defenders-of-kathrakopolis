@@ -25,7 +25,7 @@ I'm indebted to the other players I've had the opportunity to discuss my ideas o
 ## Story inspiration
 
 * D'Epiro, P & Pinkowish, MD 2005, _What are the Seven Wonders of the World? And 60 other great cultural questions_, The Folio Society, London.
-* Blake, W (lyrics) and Parry, H (composer) 1904, /Jerusalem/. YouTube video: "cantorandopera" 2011 (May 4), \/Jerusalem, the Anthem, with simultaneous lyrics\/ <https://www.youtube.com/watch?v=MKRHWT6xdEU&list=PL0YwNeN7lPyl6hjz5KKT6iFAhTK8JOht_&index=4&t=0s>.
+* Blake, W (lyrics) and Parry, H (composer) 1904, _Jerusalem_. YouTube video: "cantorandopera" 2011 (May 4), \/Jerusalem, the Anthem, with simultaneous lyrics\/ <https://www.youtube.com/watch?v=MKRHWT6xdEU&list=PL0YwNeN7lPyl6hjz5KKT6iFAhTK8JOht_&index=4&t=0s>.
 * Carrol, Lewis 1871, _Through the Looking-Glass and What Alice Found There_.
 * Cervantes Saavedra, M de 1605-1615, _Don Quixote_, trans. E Grossman 2003, Vintage, London.
 * Dvořák, A 1893, _Symphony No. 9 in E minor, Op. 95: 'From the New World'_. CD recording: Kertész, I & Vienna Philharmonic Orchestra 2009, _The Classic 100 Symphony_, Australian Broadcasting Corporation, Australia.
